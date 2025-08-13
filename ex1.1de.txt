@@ -1,0 +1,8 @@
+l=[(1,2),(3,4),(5,6)]
+a=[]
+s=0
+for i in l:
+    s+=i
+    a.append(s)
+print(a)
+    

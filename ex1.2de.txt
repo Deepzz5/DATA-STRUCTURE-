@@ -1,0 +1,4 @@
+d={'a':'kan','b':'jae'}
+for i in d['a']:
+    for j in d['b']:
+        print(i+j)
